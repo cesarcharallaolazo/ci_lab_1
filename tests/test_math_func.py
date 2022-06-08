@@ -1,6 +1,4 @@
-import sys
 from src import math_func
-import pytest
 
 
 # @pytest.mark.number
