@@ -19,3 +19,4 @@
 4. pip freeze -> nothing !
 5. touch requirements.txt
 6. pip install -r requirements.txt
+7. delete environment: conda remove --name ci_lab_0 --all
